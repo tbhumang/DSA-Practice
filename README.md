@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [0165-compare-version-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0165-compare-version-numbers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0165-compare-version-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
