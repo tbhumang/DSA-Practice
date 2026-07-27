@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -255,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
