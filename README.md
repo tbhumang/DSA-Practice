@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0168-excel-sheet-column-title](https://github.com/tbhumang/DSA-Arrays/tree/master/0168-excel-sheet-column-title) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
