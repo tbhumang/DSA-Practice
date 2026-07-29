@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tbhumang/DSA-Arrays/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0166-fraction-to-recurring-decimal](https://github.com/tbhumang/DSA-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/tbhumang/DSA-Arrays/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
