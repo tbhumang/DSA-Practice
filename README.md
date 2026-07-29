@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
