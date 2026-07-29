@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0168-excel-sheet-column-title](https://github.com/tbhumang/DSA-Arrays/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/tbhumang/DSA-Arrays/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
