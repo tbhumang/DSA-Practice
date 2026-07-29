@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0136-single-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
