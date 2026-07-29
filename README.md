@@ -296,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tbhumang/DSA-Arrays/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
