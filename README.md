@@ -305,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0178-rank-scores](https://github.com/tbhumang/DSA-Arrays/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tbhumang/DSA-Arrays/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/tbhumang/DSA-Arrays/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
