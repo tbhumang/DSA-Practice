@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tbhumang/DSA-Arrays/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0168-excel-sheet-column-title](https://github.com/tbhumang/DSA-Arrays/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0136-single-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -309,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0183-customers-who-never-order](https://github.com/tbhumang/DSA-Arrays/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/tbhumang/DSA-Arrays/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/tbhumang/DSA-Arrays/tree/master/0185-department-top-three-salaries) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
