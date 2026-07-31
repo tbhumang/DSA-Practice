@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tbhumang/DSA-Arrays/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
