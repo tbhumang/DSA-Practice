@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
