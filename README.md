@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0204-count-primes](https://github.com/tbhumang/DSA-Arrays/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/tbhumang/DSA-Arrays/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -372,8 +375,13 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
