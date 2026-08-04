@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0204-count-primes](https://github.com/tbhumang/DSA-Arrays/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/tbhumang/DSA-Arrays/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
