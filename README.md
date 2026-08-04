@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0219-contains-duplicate-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/tbhumang/DSA-Arrays/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/tbhumang/DSA-Arrays/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
