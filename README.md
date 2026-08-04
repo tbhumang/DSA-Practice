@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
