@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -523,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
