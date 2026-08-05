@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
