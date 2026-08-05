@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0275-h-index-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/tbhumang/DSA-Arrays/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/tbhumang/DSA-Arrays/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
