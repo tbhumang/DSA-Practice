@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/tbhumang/DSA-Arrays/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0202-happy-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
+| [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
