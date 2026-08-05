@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0221-maximal-square](https://github.com/tbhumang/DSA-Arrays/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/tbhumang/DSA-Arrays/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0190-reverse-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tbhumang/DSA-Arrays/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0258-add-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tbhumang/DSA-Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
