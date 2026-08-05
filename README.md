@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tbhumang/DSA-Arrays/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/tbhumang/DSA-Arrays/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
