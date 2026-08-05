@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
