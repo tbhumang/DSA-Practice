@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
+| [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
