@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/tbhumang/DSA-Arrays/tree/master/0278-first-bad-version) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -481,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tbhumang/DSA-Arrays/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
