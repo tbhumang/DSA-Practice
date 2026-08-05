@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0221-maximal-square](https://github.com/tbhumang/DSA-Arrays/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0263-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -486,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tbhumang/DSA-Arrays/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
