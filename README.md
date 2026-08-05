@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0284-peeking-iterator) |
+| [0289-game-of-life](https://github.com/tbhumang/DSA-Arrays/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/tbhumang/DSA-Arrays/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0174-dungeon-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/tbhumang/DSA-Arrays/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/tbhumang/DSA-Arrays/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
