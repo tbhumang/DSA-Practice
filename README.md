@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
+| [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tbhumang/DSA-Arrays/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/tbhumang/DSA-Arrays/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0306-additive-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
+| [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tbhumang/DSA-Arrays/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
