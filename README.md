@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/tbhumang/DSA-Arrays/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/tbhumang/DSA-Arrays/tree/master/0319-bulb-switcher) |
 ## Nim Game
 |  |
 | ------- |
