@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0334-increasing-triplet-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
