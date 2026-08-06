@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0201-bitwise-and-of-numbers-range](https://github.com/tbhumang/DSA-Arrays/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
