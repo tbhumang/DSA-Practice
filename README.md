@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/tbhumang/DSA-Arrays/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/tbhumang/DSA-Arrays/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0203-remove-linked-list-elements](https://github.com/tbhumang/DSA-Arrays/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/tbhumang/DSA-Arrays/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
