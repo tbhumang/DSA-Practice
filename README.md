@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0135-candy](https://github.com/tbhumang/DSA-Arrays/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0189-rotate-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tbhumang/DSA-Arrays/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
