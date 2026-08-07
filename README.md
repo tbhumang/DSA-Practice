@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/tbhumang/DSA-Arrays/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/tbhumang/DSA-Arrays/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tbhumang/DSA-Arrays/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
