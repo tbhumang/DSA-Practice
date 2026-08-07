@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/tbhumang/DSA-Arrays/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0326-power-of-three](https://github.com/tbhumang/DSA-Arrays/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/tbhumang/DSA-Arrays/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
