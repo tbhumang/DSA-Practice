@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/tbhumang/DSA-Arrays/tree/master/0354-russian-doll-envelopes) |
+| [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
+| [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -682,4 +685,5 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
