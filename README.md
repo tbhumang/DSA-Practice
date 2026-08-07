@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0290-word-pattern](https://github.com/tbhumang/DSA-Arrays/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/tbhumang/DSA-Arrays/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
+| [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/tbhumang/DSA-Arrays/tree/master/0203-remove-linked-list-elements) |
+| [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0303-range-sum-query-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
+| [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
