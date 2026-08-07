@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0300-longest-increasing-subsequence](https://github.com/tbhumang/DSA-Arrays/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/tbhumang/DSA-Arrays/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/tbhumang/DSA-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0260-single-number-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tbhumang/DSA-Arrays/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/tbhumang/DSA-Arrays/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
