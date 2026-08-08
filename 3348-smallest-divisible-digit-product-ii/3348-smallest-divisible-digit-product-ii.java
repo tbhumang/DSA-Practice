@@ -53,12 +53,17 @@ class Solution {
     }
 
     void logNum(int[] primeCount, int num, int value) {
-        if (num < '2') return;
+        if (num < '2') {
+            return;
+        }
 
-        if (num == '9') primeCount[3] += value << 1;
-        else if (num == '4') primeCount[2] += value << 1;
-        else if (num == '8') primeCount[2] += value * 3;
-        else if (num == '6') {
+        if (num == '9') {
+            primeCount[3] += value << 1;
+        } else if (num == '4') {
+            primeCount[2] += value << 1;
+        } else if (num == '8') {
+            primeCount[2] += value * 3;
+        } else if (num == '6') {
             primeCount[2] += value;
             primeCount[3] += value;
         } else {
@@ -79,7 +84,9 @@ class Solution {
             result[--index] = '8';
         }
 
-        while (primeCount[7]-- > 0) result[--index] = '7';
+        while (primeCount[7]-- > 0) {
+            result[--index] = '7';
+        }
 
         if (primeCount[2] > 0 && primeCount[3] > 0) {
             result[--index] = '6';
@@ -87,7 +94,9 @@ class Solution {
             primeCount[3]--;
         }
 
-        while (primeCount[5]-- > 0) result[--index] = '5';
+        while (primeCount[5]-- > 0) {
+            result[--index] = '5';
+        }
 
         while (primeCount[2] > 1) {
             primeCount[2] -= 2;
@@ -107,17 +116,16 @@ class Solution {
         while (index + targetLength != result.length) {
             result[--index] = '1';
         }
-        return targetLength == result.length
-                ? new String(result)
-                : new String(result, 1, result.length - 1);
+
+        return targetLength == result.length ? new String(result) : new String(result, 1, result.length - 1);
     }
+
     int getMinLength(int[] primeCount) {
         int count2 = Math.max(0, primeCount[2]);
         int count3 = Math.max(0, primeCount[3]);
         int count23 = (count3 & 1) + (count2 % 3);
-        return (count3 >> 1) + (count2 / 3)
-                + Math.max(0, primeCount[7])
-                + Math.max(0, primeCount[5])
+
+        return (count3 >> 1) + (count2 / 3) + Math.max(0, primeCount[7]) + Math.max(0, primeCount[5])
                 + (count23 == 3 ? 2 : count23 > 0 ? 1 : 0);
     }
 }
