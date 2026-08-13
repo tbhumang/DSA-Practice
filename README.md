@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tbhumang/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tbhumang/DSA-Arrays/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0344-reverse-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
 | ------- |
