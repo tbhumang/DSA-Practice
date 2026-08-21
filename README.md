@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0301-remove-invalid-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0133-clone-graph](https://github.com/tbhumang/DSA-Arrays/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/tbhumang/DSA-Arrays/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -768,4 +774,16 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
