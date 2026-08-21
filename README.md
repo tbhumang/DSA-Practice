@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/tbhumang/DSA-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/tbhumang/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/tbhumang/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tbhumang/DSA-Arrays/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/tbhumang/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
 | ------- |
