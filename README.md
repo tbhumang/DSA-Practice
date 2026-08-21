@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/tbhumang/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0215-kth-largest-element-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
 ## String Matching
 |  |
 | ------- |
@@ -731,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
