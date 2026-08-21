@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0343-integer-break](https://github.com/tbhumang/DSA-Arrays/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/tbhumang/DSA-Arrays/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/tbhumang/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
