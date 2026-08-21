@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0376-wiggle-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tbhumang/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0367-valid-perfect-square](https://github.com/tbhumang/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 ## Euler's Totient Function
