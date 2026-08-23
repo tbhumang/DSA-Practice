@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0345-reverse-vowels-of-a-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
