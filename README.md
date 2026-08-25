@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0344-reverse-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
+| [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0258-add-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/tbhumang/DSA-Arrays/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tbhumang/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
