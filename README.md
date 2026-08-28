@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0427-construct-quad-tree) |
+| [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0226-invert-binary-tree](https://github.com/tbhumang/DSA-Arrays/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
