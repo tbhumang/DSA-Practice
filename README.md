@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tbhumang/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0203-remove-linked-list-elements](https://github.com/tbhumang/DSA-Arrays/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tbhumang/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
 |  |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tbhumang/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Combinatorics
 |  |
