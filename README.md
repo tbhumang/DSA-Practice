@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0203-remove-linked-list-elements](https://github.com/tbhumang/DSA-Arrays/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -562,10 +564,12 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tbhumang/DSA-Arrays/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Combinatorics
 |  |
 | ------- |
