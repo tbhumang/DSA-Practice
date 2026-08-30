@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
+| [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -810,12 +812,14 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 ## Euler's Totient Function
 |  |
 | ------- |
