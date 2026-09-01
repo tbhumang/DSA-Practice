@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tbhumang/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0365-water-and-jug-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0257-binary-tree-paths](https://github.com/tbhumang/DSA-Arrays/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0374-guess-number-higher-or-lower](https://github.com/tbhumang/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/tbhumang/DSA-Practice/tree/master/0436-find-right-interval) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -573,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0380-insert-delete-getrandom-o1](https://github.com/tbhumang/DSA-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
