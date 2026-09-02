@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0376-wiggle-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tbhumang/DSA-Arrays/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0292-nim-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -858,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
