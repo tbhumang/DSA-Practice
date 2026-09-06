@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
