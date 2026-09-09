@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
+| [0479-largest-palindrome-product](https://github.com/tbhumang/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tbhumang/DSA-Arrays/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/tbhumang/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3514-number-of-unique-xor-triplets-ii) |
