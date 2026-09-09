@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
+| [0476-number-complement](https://github.com/tbhumang/DSA-Practice/tree/master/0476-number-complement) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3513-number-of-unique-xor-triplets-i) |
