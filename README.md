@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0467-unique-substrings-in-wraparound-string](https://github.com/tbhumang/DSA-Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/tbhumang/DSA-Practice/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/tbhumang/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/tbhumang/DSA-Practice/tree/master/0482-license-key-formatting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
