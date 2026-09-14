@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0479-largest-palindrome-product](https://github.com/tbhumang/DSA-Practice/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0436-find-right-interval](https://github.com/tbhumang/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tbhumang/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
