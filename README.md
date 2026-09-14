@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0479-largest-palindrome-product](https://github.com/tbhumang/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/tbhumang/DSA-Arrays/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 ## Recursion
 |  |
 | ------- |
