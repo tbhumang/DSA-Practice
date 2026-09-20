@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/tbhumang/DSA-Practice/tree/master/0495-teemo-attacking) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/tbhumang/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/tbhumang/DSA-Practice/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/tbhumang/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
@@ -907,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
 | ------- |
@@ -914,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Euler's Totient Function
 |  |
 | ------- |
