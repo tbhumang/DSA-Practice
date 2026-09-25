@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/tbhumang/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0436-find-right-interval](https://github.com/tbhumang/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tbhumang/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0376-wiggle-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tbhumang/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0355-design-twitter](https://github.com/tbhumang/DSA-Arrays/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tbhumang/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
