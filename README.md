@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tbhumang/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0482-license-key-formatting](https://github.com/tbhumang/DSA-Practice/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/tbhumang/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0306-additive-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -619,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
