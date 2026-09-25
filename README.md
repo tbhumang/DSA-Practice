@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0482-license-key-formatting](https://github.com/tbhumang/DSA-Practice/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/tbhumang/DSA-Practice/tree/master/0504-base-7) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/tbhumang/DSA-Practice/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/tbhumang/DSA-Practice/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
