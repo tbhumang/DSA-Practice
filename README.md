@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0437-path-sum-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0433-minimum-genetic-mutation](https://github.com/tbhumang/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
+| [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0337-house-robber-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 ## Queue
 |  |
 | ------- |
