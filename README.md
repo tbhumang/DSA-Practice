@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0474-ones-and-zeroes](https://github.com/tbhumang/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
+| [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0397-integer-replacement](https://github.com/tbhumang/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
+| [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0492-construct-the-rectangle](https://github.com/tbhumang/DSA-Practice/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/tbhumang/DSA-Practice/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0342-power-of-four](https://github.com/tbhumang/DSA-Arrays/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
