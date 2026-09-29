@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/tbhumang/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/tbhumang/DSA-Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0382-linked-list-random-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 ## Randomized
 |  |
 | ------- |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0384-shuffle-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 ## Euler's Totient Function
 |  |
 | ------- |
