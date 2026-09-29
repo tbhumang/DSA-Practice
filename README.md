@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tbhumang/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/tbhumang/DSA-Practice/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tbhumang/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/tbhumang/DSA-Practice/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tbhumang/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tbhumang/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
