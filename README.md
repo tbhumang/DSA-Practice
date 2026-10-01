@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tbhumang/DSA-Arrays/tree/master/0224-basic-calculator) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tbhumang/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
