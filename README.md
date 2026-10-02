@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/tbhumang/DSA-Arrays/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tbhumang/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
