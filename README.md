@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/tbhumang/DSA-Practice/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tbhumang/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
