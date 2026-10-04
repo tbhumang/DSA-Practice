@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0506-relative-ranks](https://github.com/tbhumang/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tbhumang/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/tbhumang/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/tbhumang/DSA-Practice/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tbhumang/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tbhumang/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
