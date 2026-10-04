@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/tbhumang/DSA-Practice/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/tbhumang/DSA-Practice/tree/master/0546-remove-boxes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/tbhumang/DSA-Practice/tree/master/0514-freedom-trail) |
+| [0546-remove-boxes](https://github.com/tbhumang/DSA-Practice/tree/master/0546-remove-boxes) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/tbhumang/DSA-Practice/tree/master/0546-remove-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
