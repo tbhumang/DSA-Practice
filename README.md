@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/tbhumang/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0304-range-sum-query-2d-immutable](https://github.com/tbhumang/DSA-Arrays/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/tbhumang/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -998,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 ## Euler's Totient Function
 |  |
 | ------- |
