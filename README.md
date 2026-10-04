@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0514-freedom-trail](https://github.com/tbhumang/DSA-Practice/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/tbhumang/DSA-Practice/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
+| [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/tbhumang/DSA-Practice/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/tbhumang/DSA-Practice/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tbhumang/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
