@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/tbhumang/DSA-Practice/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/tbhumang/DSA-Practice/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0508-most-frequent-subtree-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/tbhumang/DSA-Practice/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0501-find-mode-in-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0345-reverse-vowels-of-a-string](https://github.com/tbhumang/DSA-Arrays/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
