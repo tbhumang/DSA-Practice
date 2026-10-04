@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/tbhumang/DSA-Practice/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
