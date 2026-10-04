@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tbhumang/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
+| [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tbhumang/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
