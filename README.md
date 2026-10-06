@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
+| [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/tbhumang/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0541-reverse-string-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0209-minimum-size-subarray-sum](https://github.com/tbhumang/DSA-Arrays/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
+| [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tbhumang/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tbhumang/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
