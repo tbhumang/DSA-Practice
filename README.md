@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tbhumang/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0372-super-pow](https://github.com/tbhumang/DSA-Practice/tree/master/0372-super-pow) |
 | [0427-construct-quad-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## String Matching
 |  |
 | ------- |
