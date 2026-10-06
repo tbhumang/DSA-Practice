@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0538-convert-bst-to-greater-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Quickselect
 |  |
 | ------- |
