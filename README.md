@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0551-student-attendance-record-i](https://github.com/tbhumang/DSA-Practice/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/tbhumang/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/tbhumang/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
