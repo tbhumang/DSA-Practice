@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
