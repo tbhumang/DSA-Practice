@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tbhumang/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/tbhumang/DSA-Arrays/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0219-contains-duplicate-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tbhumang/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tbhumang/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
