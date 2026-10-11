@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0546-remove-boxes](https://github.com/tbhumang/DSA-Practice/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/tbhumang/DSA-Practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
