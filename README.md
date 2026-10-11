@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/tbhumang/DSA-Practice/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
