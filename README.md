@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/tbhumang/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
