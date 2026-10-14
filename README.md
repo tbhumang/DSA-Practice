@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/tbhumang/DSA-Practice/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
+| [0587-erect-the-fence](https://github.com/tbhumang/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/tbhumang/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/tbhumang/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/tbhumang/DSA-Arrays/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/tbhumang/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
@@ -1181,4 +1184,12 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tbhumang/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/tbhumang/DSA-Practice/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/tbhumang/DSA-Practice/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
