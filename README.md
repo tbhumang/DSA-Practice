@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0502-ipo](https://github.com/tbhumang/DSA-Practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/tbhumang/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tbhumang/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
