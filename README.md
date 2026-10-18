@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0553-optimal-division](https://github.com/tbhumang/DSA-Practice/tree/master/0553-optimal-division) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/tbhumang/DSA-Practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/tbhumang/DSA-Practice/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0306-additive-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0488-zuma-game](https://github.com/tbhumang/DSA-Practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/tbhumang/DSA-Practice/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/tbhumang/DSA-Practice/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tbhumang/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1087,10 +1092,12 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/tbhumang/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tbhumang/DSA-Arrays/tree/master/0279-perfect-squares) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 ## Iterator
 |  |
 | ------- |
@@ -1204,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
+| [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 ## 0-1 Knapsack
 |  |
 | ------- |
