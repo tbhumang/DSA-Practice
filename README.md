@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0639-decode-ways-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
+| [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0498-diagonal-traverse](https://github.com/tbhumang/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tbhumang/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -1248,4 +1251,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
