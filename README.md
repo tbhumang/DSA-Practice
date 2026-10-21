@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tbhumang/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 ## Two Pointers
 |  |
 | ------- |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0432-all-oone-data-structure](https://github.com/tbhumang/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
+| [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 ## Bézout's Lemma
 |  |
 | ------- |
