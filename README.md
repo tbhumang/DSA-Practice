@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0561-array-partition](https://github.com/tbhumang/DSA-Practice/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
+| [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0639-decode-ways-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
+| [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1168,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
 ## Bézout's Lemma
 |  |
 | ------- |
