@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/tbhumang/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
+| [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0476-number-complement](https://github.com/tbhumang/DSA-Practice/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tbhumang/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
