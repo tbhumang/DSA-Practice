@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0563-binary-tree-tilt](https://github.com/tbhumang/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tbhumang/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
