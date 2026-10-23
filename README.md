@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0643-maximum-average-subarray-i](https://github.com/tbhumang/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
+| [0665-non-decreasing-array](https://github.com/tbhumang/DSA-Practice/tree/master/0665-non-decreasing-array) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
