@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/tbhumang/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tbhumang/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
