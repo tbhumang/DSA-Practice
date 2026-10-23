@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/tbhumang/DSA-Practice/tree/master/0665-non-decreasing-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0598-range-addition-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
+| [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/tbhumang/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
