@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0629-k-inverse-pairs-array](https://github.com/tbhumang/DSA-Practice/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/tbhumang/DSA-Practice/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0639-decode-ways-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/tbhumang/DSA-Practice/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
