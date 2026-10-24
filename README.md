@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/tbhumang/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0591-tag-validator](https://github.com/tbhumang/DSA-Practice/tree/master/0591-tag-validator) |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/tbhumang/DSA-Practice/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0537-complex-number-multiplication](https://github.com/tbhumang/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
+| [0682-baseball-game](https://github.com/tbhumang/DSA-Practice/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tbhumang/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
