@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
+| [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tbhumang/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tbhumang/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/tbhumang/DSA-Practice/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
