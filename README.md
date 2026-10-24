@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0665-non-decreasing-array](https://github.com/tbhumang/DSA-Practice/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0427-construct-quad-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/tbhumang/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/tbhumang/DSA-Practice/tree/master/0529-minesweeper) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tbhumang/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0506-relative-ranks](https://github.com/tbhumang/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tbhumang/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
