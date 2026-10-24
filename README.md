@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/tbhumang/DSA-Practice/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
