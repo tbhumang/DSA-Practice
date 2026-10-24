@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0617-merge-two-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/tbhumang/DSA-Practice/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tbhumang/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 ## Memoization
 |  |
 | ------- |
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0449-serialize-and-deserialize-bst](https://github.com/tbhumang/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 ## Doubly-Linked List
 |  |
 | ------- |
