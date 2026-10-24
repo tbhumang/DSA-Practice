@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/tbhumang/DSA-Practice/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tbhumang/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tbhumang/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
