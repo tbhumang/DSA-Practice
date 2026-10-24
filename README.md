@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0357-count-numbers-with-unique-digits](https://github.com/tbhumang/DSA-Arrays/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/tbhumang/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/tbhumang/DSA-Practice/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0667-beautiful-arrangement-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/tbhumang/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
