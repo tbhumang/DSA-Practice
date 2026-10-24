@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -1109,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
@@ -1332,4 +1334,16 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
