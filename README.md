@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0670-maximum-swap](https://github.com/tbhumang/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0738-monotone-increasing-digits](https://github.com/tbhumang/DSA-Practice/tree/master/0738-monotone-increasing-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tbhumang/DSA-Arrays/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0670-maximum-swap](https://github.com/tbhumang/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
+| [0738-monotone-increasing-digits](https://github.com/tbhumang/DSA-Practice/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
