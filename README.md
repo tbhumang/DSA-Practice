@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0652-find-duplicate-subtrees](https://github.com/tbhumang/DSA-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
+| [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
+| [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0672-bulb-switcher-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/tbhumang/DSA-Practice/tree/master/0679-24-game) |
 | [0738-monotone-increasing-digits](https://github.com/tbhumang/DSA-Practice/tree/master/0738-monotone-increasing-digits) |
+| [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/tbhumang/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/tbhumang/DSA-Practice/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0390-elimination-game](https://github.com/tbhumang/DSA-Arrays/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tbhumang/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
