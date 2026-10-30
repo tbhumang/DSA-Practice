@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0686-repeated-string-match](https://github.com/tbhumang/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/tbhumang/DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [0830-positions-of-large-groups](https://github.com/tbhumang/DSA-Practice/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tbhumang/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tbhumang/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
