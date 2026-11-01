@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0427-construct-quad-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/tbhumang/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tbhumang/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tbhumang/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/tbhumang/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/tbhumang/DSA-Practice/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/tbhumang/DSA-Arrays/tree/master/0486-predict-the-winner) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0398-random-pick-index](https://github.com/tbhumang/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/tbhumang/DSA-Practice/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tbhumang/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/tbhumang/DSA-Practice/tree/master/0464-can-i-win) |
 | [0479-largest-palindrome-product](https://github.com/tbhumang/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/tbhumang/DSA-Practice/tree/master/0483-smallest-good-base) |
