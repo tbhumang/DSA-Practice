@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tbhumang/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
+| [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tbhumang/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tbhumang/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0220-contains-duplicate-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tbhumang/DSA-Arrays/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tbhumang/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Game Theory
 |  |
@@ -1204,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tbhumang/DSA-Arrays/tree/master/0218-the-skyline-problem) |
+| [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 ## Interactive
 |  |
 | ------- |
