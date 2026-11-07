@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/tbhumang/DSA-Practice/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/tbhumang/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tbhumang/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tbhumang/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/tbhumang/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tbhumang/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tbhumang/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
