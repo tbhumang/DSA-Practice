@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tbhumang/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/tbhumang/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/tbhumang/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/tbhumang/DSA-Practice/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tbhumang/DSA-Arrays/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tbhumang/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0399-evaluate-division](https://github.com/tbhumang/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/tbhumang/DSA-Practice/tree/master/0684-redundant-connection) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0299-bulls-and-cows](https://github.com/tbhumang/DSA-Arrays/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/tbhumang/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/tbhumang/DSA-Practice/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1046,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0675-cut-off-trees-for-golf-event](https://github.com/tbhumang/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tbhumang/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tbhumang/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tbhumang/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
