@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tbhumang/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/tbhumang/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0525-contiguous-array](https://github.com/tbhumang/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/tbhumang/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tbhumang/DSA-Arrays/tree/master/3312-sorted-gcd-pair-queries) |
