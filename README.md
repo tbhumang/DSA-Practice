@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tbhumang/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tbhumang/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0592-fraction-addition-and-subtraction](https://github.com/tbhumang/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/tbhumang/DSA-Practice/tree/master/0640-solve-the-equation) |
 | [0682-baseball-game](https://github.com/tbhumang/DSA-Practice/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tbhumang/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tbhumang/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tbhumang/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0341-flatten-nested-list-iterator](https://github.com/tbhumang/DSA-Arrays/tree/master/0341-flatten-nested-list-iterator) |
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/tbhumang/DSA-Practice/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/tbhumang/DSA-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tbhumang/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bézout's Lemma
 |  |
