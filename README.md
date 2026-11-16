@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/tbhumang/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [0951-flip-equivalent-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tbhumang/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/tbhumang/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/tbhumang/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [0951-flip-equivalent-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tbhumang/DSA-Arrays/tree/master/2685-count-the-number-of-complete-components) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0654-maximum-binary-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/tbhumang/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [0951-flip-equivalent-binary-trees](https://github.com/tbhumang/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tbhumang/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tbhumang/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
