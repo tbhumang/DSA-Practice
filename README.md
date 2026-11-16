@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/tbhumang/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0835-image-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0835-image-overlap) |
 | [0850-rectangle-area-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0850-rectangle-area-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tbhumang/DSA-Arrays/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0630-course-schedule-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0630-course-schedule-iii) |
 | [0645-set-mismatch](https://github.com/tbhumang/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/tbhumang/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0557-reverse-words-in-a-string-iii](https://github.com/tbhumang/DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/tbhumang/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/tbhumang/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tbhumang/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tbhumang/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tbhumang/DSA-Arrays/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
