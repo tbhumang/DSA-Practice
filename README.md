@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1267-count-servers-that-communicate](https://github.com/tbhumang/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tbhumang/DSA-Arrays/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tbhumang/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/tbhumang/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0770-basic-calculator-iv](https://github.com/tbhumang/DSA-Practice/tree/master/0770-basic-calculator-iv) |
 | [0836-rectangle-overlap](https://github.com/tbhumang/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tbhumang/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/tbhumang/DSA-Arrays/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0525-contiguous-array](https://github.com/tbhumang/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/tbhumang/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tbhumang/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tbhumang/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/tbhumang/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0641-design-circular-deque](https://github.com/tbhumang/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/tbhumang/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tbhumang/DSA-Practice/tree/master/0677-map-sum-pairs) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1309,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tbhumang/DSA-Arrays/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tbhumang/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
