@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [3886-sum-of-sortable-integers](https://github.com/tbhumang/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/tbhumang/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tbhumang/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/tbhumang/DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [3718-smallest-missing-multiple-of-k](https://github.com/tbhumang/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tbhumang/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/tbhumang/DSA-Arrays/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -1200,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tbhumang/DSA-Arrays/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1208,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0336-palindrome-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tbhumang/DSA-Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/tbhumang/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1475,4 +1480,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tbhumang/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tbhumang/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
